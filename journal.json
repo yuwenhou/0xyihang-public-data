@@ -1,0 +1,275 @@
+{
+  "base": "2026-11-20",
+  "asOf": "2026-11-20",
+  "inception": "2026-11-21",
+  "ledger": [
+    {
+      "id": "2026-11-21-01",
+      "publishedAt": "2026-11-21T14:09:31Z",
+      "type": "open",
+      "amount": 100000,
+      "reason": "建立独立的公开模拟组合，初始资金全部以美元现金持有。首日没有买入或卖出。",
+      "trigger": "后续模拟调仓需记录标的、依据、成交日期、价格、数量和费用。",
+      "review": "2026-12-31",
+      "hash": "2a17f710d8be25f6828f955c9bb961b9afcfba5885afc3e68413cb5306bf1e6d",
+      "previousHash": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ],
+  "cash": 100000,
+  "holdings": [],
+  "curve": [
+    {
+      "date": "2026-11-20",
+      "nav": 100000,
+      "rebased": {
+        "BTC-USD": 100.0,
+        "^HSI": 100.0,
+        "^IXIC": 100.0
+      },
+      "levels": {
+        "BTC-USD": 58798.98047,
+        "^HSI": 22410.80078,
+        "^IXIC": 22617.73047
+      },
+      "hkdPerUSD": 7.8426
+    }
+  ],
+  "calendar": [
+    {
+      "date": "2026-11-25",
+      "time": "21:30",
+      "type": "宏观",
+      "title": "美国三季度 GDP 第二次估计、10 月个人收入与支出",
+      "note": "关注核心 PCE 价格指数的月度变动，以及企业利润初值。",
+      "source": "美国经济分析局",
+      "url": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "date": "2026-12-10",
+      "time": "03:00",
+      "type": "宏观",
+      "title": "美联储 12 月利率决议",
+      "note": "美国东部时间 12 月 9 日 14:00 公布决议，半小时后召开记者会。",
+      "source": "美联储",
+      "url": "https://www.federalreserve.gov/newsevents/2026-december.htm"
+    },
+    {
+      "date": "2026-12-10",
+      "time": "06:00",
+      "type": "财报",
+      "title": "博通四季度与全年业绩电话会",
+      "note": "公司将于美东 12 月 9 日盘后发布业绩，17:00 举行电话会。关注半导体收入与下一季度指引。",
+      "source": "博通投资者关系",
+      "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-fourth-quarter-and-fiscal-year-2026"
+    },
+    {
+      "date": "2026-12-15",
+      "type": "代币解锁",
+      "title": "STRK 投资人及早期贡献者解锁",
+      "note": "官方月度计划每期最多 1.27 亿枚，约为初始供应量的 1.27%。项目公布了日期，具体时刻待确认。",
+      "source": "Starknet 协议文档",
+      "url": "https://docs.starknet.io/learn/protocol/strk"
+    },
+    {
+      "date": "2026-12-23",
+      "time": "21:30",
+      "type": "宏观",
+      "title": "美国三季度 GDP 第三次估计、11 月个人收入与支出",
+      "note": "对照上次 GDP 增速修订，更新个人消费与价格数据。",
+      "source": "美国经济分析局",
+      "url": "https://www.bea.gov/news/schedule"
+    },
+    {
+      "date": "2026-12-31",
+      "time": "03:00",
+      "type": "宏观",
+      "title": "美联储 12 月议息会议纪要",
+      "note": "美国东部时间 12 月 30 日 14:00 发布。",
+      "source": "美联储",
+      "url": "https://www.federalreserve.gov/newsevents/2026-december.htm"
+    },
+    {
+      "date": "2027-01-15",
+      "type": "代币解锁",
+      "title": "STRK 投资人及早期贡献者解锁",
+      "note": "官方月度计划每期最多 1.27 亿枚，约为初始供应量的 1.27%。项目公布了日期，具体时刻待确认。",
+      "source": "Starknet 协议文档",
+      "url": "https://docs.starknet.io/learn/protocol/strk"
+    },
+    {
+      "date": "2027-02-15",
+      "type": "代币解锁",
+      "title": "STRK 投资人及早期贡献者解锁",
+      "note": "官方月度计划每期最多 1.27 亿枚，约为初始供应量的 1.27%。项目公布了日期，具体时刻待确认。",
+      "source": "Starknet 协议文档",
+      "url": "https://docs.starknet.io/learn/protocol/strk"
+    },
+    {
+      "date": "2027-03-15",
+      "type": "代币解锁",
+      "title": "STRK 投资人及早期贡献者解锁",
+      "note": "官方月度计划每期最多 1.27 亿枚，约为初始供应量的 1.27%。项目公布了日期，具体时刻待确认。",
+      "source": "Starknet 协议文档",
+      "url": "https://docs.starknet.io/learn/protocol/strk"
+    }
+  ],
+  "issues": [
+    {
+      "date": "2026-11-21",
+      "periodEnd": "2026-11-20",
+      "title": "三项基准与模拟组合建档",
+      "lines": [
+        "截至 2026-11-20 的一周，按美元价格计算，比特币 -13.85%，恒生指数 -5.17%，纳斯达克综合指数 -10.02%。",
+        "2026-11-21 的比特币恐惧与贪婪指数为 12/100（极度恐惧）。",
+        "本期建立 8 个标的的七交易日均价档位基线，其中 1 个达到价格条件。首期尚无上期快照。",
+        "公开模拟组合以 100,000 美元现金起步，首期没有成交。上列涨跌覆盖建档前一周，作为市场背景。",
+        "本期研究更新包括腾讯控股、纳斯达克 100 ETF、伯克希尔哈撒韦、Hyperliquid、英伟达、Circle Internet Group、苹果、Alphabet、Backpack、BNB、OKB。",
+        "创刊归档另收录前期专题。2026-11-11 纳斯达克 100 ETF · 分十二期建仓，承担了什么机会成本？、2026-11-09 美股资产比较 · 宽基、成长与单一企业分别承担什么风险？。",
+        "下周跟踪 2026-11-25 的美国三季度 GDP 第二次估计、10 月个人收入与支出。"
+      ],
+      "reports": [
+        {
+          "name": "腾讯控股",
+          "url": "#reports?asset=tencent"
+        },
+        {
+          "name": "纳斯达克 100 ETF",
+          "url": "#reports?asset=qqq"
+        },
+        {
+          "name": "伯克希尔哈撒韦",
+          "url": "#reports?asset=brkb"
+        },
+        {
+          "name": "Hyperliquid",
+          "url": "#reports?asset=hype"
+        },
+        {
+          "name": "英伟达",
+          "url": "#reports?asset=nvda"
+        },
+        {
+          "name": "Circle Internet Group",
+          "url": "#reports?asset=crcl"
+        },
+        {
+          "name": "苹果",
+          "url": "#reports?asset=aapl"
+        },
+        {
+          "name": "Alphabet",
+          "url": "#reports?asset=goog"
+        },
+        {
+          "name": "Backpack",
+          "url": "#reports?asset=bp"
+        },
+        {
+          "name": "BNB",
+          "url": "#reports?asset=bnb"
+        },
+        {
+          "name": "OKB",
+          "url": "#reports?asset=okb"
+        }
+      ],
+      "earlier": [
+        {
+          "name": "纳斯达克 100 ETF · 分十二期建仓，承担了什么机会成本？",
+          "date": "2026-11-11",
+          "url": "#reports?asset=qqqm"
+        },
+        {
+          "name": "美股资产比较 · 宽基、成长与单一企业分别承担什么风险？",
+          "date": "2026-11-09",
+          "url": "#reports?asset=spy-compare"
+        }
+      ],
+      "changes": {
+        "BTC-USD": -13.846730511210803,
+        "^HSI": -5.169601841027893,
+        "^IXIC": -10.019541918775554
+      },
+      "watch": {
+        "tencent": {
+          "name": "腾讯控股",
+          "average": 373.8571,
+          "tier": 0,
+          "first": 207.21,
+          "second": 177.85,
+          "date": "2026-11-20",
+          "currency": "HKD"
+        },
+        "qqq": {
+          "name": "纳斯达克 100 ETF",
+          "average": 657.1086,
+          "tier": 0,
+          "first": 499.32,
+          "second": 445.08,
+          "date": "2026-11-20",
+          "currency": "USD"
+        },
+        "brkb": {
+          "name": "伯克希尔哈撒韦",
+          "average": 582.72,
+          "tier": 0,
+          "first": 435.49,
+          "second": 415.7,
+          "date": "2026-11-20",
+          "currency": "USD"
+        },
+        "hype": {
+          "name": "Hyperliquid",
+          "average": 66.7656,
+          "tier": 0,
+          "first": 64,
+          "second": 54,
+          "date": "2026-11-20",
+          "currency": "USD"
+        },
+        "nvda": {
+          "name": "英伟达",
+          "average": 151.8729,
+          "tier": 1,
+          "first": 245.9,
+          "second": 143.4,
+          "date": "2026-11-20",
+          "currency": "USD"
+        },
+        "crcl": {
+          "name": "Circle Internet Group",
+          "average": 55.8571,
+          "tier": 0,
+          "first": 13.43,
+          "second": 11.11,
+          "date": "2026-11-20",
+          "currency": "USD"
+        },
+        "aapl": {
+          "name": "苹果",
+          "average": 351.4371,
+          "tier": 0,
+          "first": 178.76,
+          "second": 164.84,
+          "date": "2026-11-20",
+          "currency": "USD"
+        },
+        "goog": {
+          "name": "Alphabet",
+          "average": 280.1357,
+          "tier": 0,
+          "first": 139.64,
+          "second": 101.59,
+          "date": "2026-11-20",
+          "currency": "USD"
+        }
+      },
+      "sentiment": {
+        "date": "2026-11-21",
+        "score": 12,
+        "classification": "极度恐惧"
+      },
+      "publishedAt": "2026-11-21T14:18:05+00:00"
+    }
+  ]
+}

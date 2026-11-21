@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>0xYihang · 周期研究周报</title>
+    <link>https://www.cc.0xyihang.com/#weekly</link>
+    <description>每周记录市场基准、模拟持仓变化和下周观察。</description>
+    <language>zh-CN</language>
+    <item>
+      <title>2026-11-21 · 三项基准与模拟组合建档</title>
+      <link>https://www.cc.0xyihang.com/#weekly?issue=2026-11-21</link>
+      <guid>https://www.cc.0xyihang.com/#weekly?issue=2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 14:18:05 GMT</pubDate>
+      <description>截至 2026-11-20 的一周，按美元价格计算，比特币 -13.85%，恒生指数 -5.17%，纳斯达克综合指数 -10.02%。
+
+2026-11-21 的比特币恐惧与贪婪指数为 12/100（极度恐惧）。
+
+本期建立 8 个标的的七交易日均价档位基线，其中 1 个达到价格条件。首期尚无上期快照。
+
+公开模拟组合以 100,000 美元现金起步，首期没有成交。上列涨跌覆盖建档前一周，作为市场背景。
+
+本期研究更新包括腾讯控股、纳斯达克 100 ETF、伯克希尔哈撒韦、Hyperliquid、英伟达、Circle Internet Group、苹果、Alphabet、Backpack、BNB、OKB。
+
+创刊归档另收录前期专题。2026-11-11 纳斯达克 100 ETF · 分十二期建仓，承担了什么机会成本？、2026-11-09 美股资产比较 · 宽基、成长与单一企业分别承担什么风险？。
+
+下周跟踪 2026-11-25 的美国三季度 GDP 第二次估计、10 月个人收入与支出。</description>
+    </item>
+  </channel>
+</rss>
