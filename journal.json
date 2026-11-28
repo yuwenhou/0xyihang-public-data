@@ -1,6 +1,6 @@
 {
   "base": "2026-11-20",
-  "asOf": "2026-11-25",
+  "asOf": "2026-11-27",
   "inception": "2026-11-21",
   "ledger": [
     {
@@ -77,6 +77,36 @@
         "^IXIC": 23585.80078
       },
       "hkdPerUSD": 7.8414
+    },
+    {
+      "date": "2026-11-26",
+      "nav": 100000,
+      "rebased": {
+        "BTC-USD": 102.883945,
+        "^HSI": 99.231199,
+        "^IXIC": 104.280139
+      },
+      "levels": {
+        "BTC-USD": 60494.71094,
+        "^HSI": 22226.88086,
+        "^IXIC": 23585.80078
+      },
+      "hkdPerUSD": 7.8385
+    },
+    {
+      "date": "2026-11-27",
+      "nav": 100000,
+      "rebased": {
+        "BTC-USD": 101.815322,
+        "^HSI": 101.346448,
+        "^IXIC": 106.684002
+      },
+      "levels": {
+        "BTC-USD": 59866.37109,
+        "^HSI": 22694.76953,
+        "^IXIC": 24129.5
+      },
+      "hkdPerUSD": 7.83646
     }
   ],
   "calendar": [
@@ -315,6 +345,104 @@
         "classification": "极度恐惧"
       },
       "publishedAt": "2026-11-21T14:18:05+00:00"
+    },
+    {
+      "date": "2026-11-28",
+      "periodEnd": "2026-11-27",
+      "title": "市场基准与组合进展",
+      "lines": [
+        "截至 2026-11-27 的一周，按美元价格计算，比特币 +1.82%，恒生指数 +1.35%，纳斯达克综合指数 +6.68%。",
+        "2026-11-28 的比特币恐惧与贪婪指数为 10/100（极度恐惧），比上期-2分。",
+        "七交易日均价档位变化：Hyperliquid由高于首档转为达到首档。",
+        "模拟组合期末净值 100,000.00 美元，本期公开记录 0 条。"
+      ],
+      "reports": [],
+      "earlier": [],
+      "changes": {
+        "BTC-USD": 1.8153216543733919,
+        "^HSI": 1.346448003745615,
+        "^IXIC": 6.684001886655921
+      },
+      "watch": {
+        "tencent": {
+          "name": "腾讯控股",
+          "average": 344.0571,
+          "tier": 0,
+          "first": 207.21,
+          "second": 177.85,
+          "date": "2026-11-27",
+          "currency": "HKD"
+        },
+        "qqq": {
+          "name": "纳斯达克 100 ETF",
+          "average": 641.0071,
+          "tier": 0,
+          "first": 499.32,
+          "second": 445.08,
+          "date": "2026-11-27",
+          "currency": "USD"
+        },
+        "brkb": {
+          "name": "伯克希尔哈撒韦",
+          "average": 575.1914,
+          "tier": 0,
+          "first": 435.49,
+          "second": 415.7,
+          "date": "2026-11-27",
+          "currency": "USD"
+        },
+        "hype": {
+          "name": "Hyperliquid",
+          "average": 62.258,
+          "tier": 1,
+          "first": 64,
+          "second": 54,
+          "date": "2026-11-27",
+          "currency": "USD"
+        },
+        "nvda": {
+          "name": "英伟达",
+          "average": 148.9557,
+          "tier": 1,
+          "first": 245.9,
+          "second": 143.4,
+          "date": "2026-11-27",
+          "currency": "USD"
+        },
+        "crcl": {
+          "name": "Circle Internet Group",
+          "average": 49.9029,
+          "tier": 0,
+          "first": 13.43,
+          "second": 11.11,
+          "date": "2026-11-27",
+          "currency": "USD"
+        },
+        "aapl": {
+          "name": "苹果",
+          "average": 351.6414,
+          "tier": 0,
+          "first": 178.76,
+          "second": 164.84,
+          "date": "2026-11-27",
+          "currency": "USD"
+        },
+        "goog": {
+          "name": "Alphabet",
+          "average": 273.3929,
+          "tier": 0,
+          "first": 139.64,
+          "second": 101.59,
+          "date": "2026-11-27",
+          "currency": "USD"
+        }
+      },
+      "sentiment": {
+        "date": "2026-11-28",
+        "score": 10,
+        "classification": "极度恐惧"
+      },
+      "publishedAt": "2026-11-28T08:53:37+00:00"
     }
   ]
 }
